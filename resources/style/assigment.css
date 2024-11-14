@@ -1,0 +1,117 @@
+body , html{
+       margin: 0;
+       padding: 0;
+}
+header{
+    /* background-image:url('../Banner\ Image.png'); */
+    background-position:center;
+    background-repeat: no-repeat;
+    width: 1070px;
+    height: 470px;
+    margin: 0 auto;
+    padding: 120px 125px 9.2px 124px;
+    background-image: linear-gradient(to bottom, #070211 0%, rgba(7, 2, 17, 0.125) 100%),url('../Banner\ Image.png');
+    margin-top: 50px;
+    
+}
+.banner{
+color: #fff;
+text-align: center;
+padding-top: 67px;
+}
+.banner-title-1{
+    font-size: 32px;
+    font-weight: 700;
+    margin-bottom: 20px;  
+}
+.banner-title-2{
+    font-size: 72px;
+    font-weight: 900;
+    margin-top: 26px;
+}
+.section-1{
+    width: 50%;
+    margin: 0 auto;
+}
+ .section-2{
+    width: 750.9px;
+    height: 500px;
+    margin-top: 25.5px;
+ }
+
+ .box{
+   background-image:url('../Vectorrr.png');
+   width: 1320px;
+   height: 598px;
+   background-repeat: no-repeat;
+   margin: 0 auto;
+   margin-top: 127px;
+   border-radius: 16px;
+   background-image: linear-gradient(to left, #07021147, rgba(3, 1, 8, 0.838) 100%),url('../Vectorrr.png');
+
+   
+   
+ }
+ .box-1{
+    text-align:left;
+    padding-left: 125px;
+    padding-top: 100px;
+ }
+ .box-2{
+    color:#ffffff;
+    font-size: 64px;
+    font-weight: 900;
+    margin-bottom: 8px;
+ }
+ .box-3{
+    color: 
+    #ffffffcc;
+    font-size: 18px;
+ }
+ .join{
+    margin-top: 60px;
+   margin-left: 35px;
+    color:
+    #ffffff; 
+    font-size: 18px;
+    
+ }
+ .boarder{
+    background-image: linear-gradient(to bottom, rgba(255, 0, 0, 0.132), rgba(255, 0, 0, 0));
+    background-repeat: no-repeat;
+    margin: 0 auto;
+    width: 1320px;
+    height: 512.8px;
+    margin-top: 127px;
+ }
+ .center{
+    text-align: center;
+    color: #070211;
+    padding-top: 106.4px;
+    font-size: 32px;
+     
+ }
+ .red{
+    color:
+    #ff0000;
+ }
+ .now{
+    width: 167px;
+    height: 56px;
+    margin-top:51px;
+    border-radius: 8px;
+    background-color: #f00;
+    color: 
+    #ffffff;
+    font-size: 18px;
+    border:none;
+ }
+ .blue{
+    width: 150px;
+    height: 50px;
+    margin: 0 auto;
+ }
+    
+
+
+        
