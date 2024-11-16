@@ -68,6 +68,8 @@ padding-top: 67px;
     #ffffffcc;
     font-size: 18px;
  }
+
+
  .join{
     margin-top: 60px;
    margin-left: 35px;
@@ -111,6 +113,57 @@ padding-top: 67px;
     height: 50px;
     margin: 0 auto;
  }
+ .best{
+   display: flex;
+   margin-top: 250px;
+   
+ }
+ .first{
+    margin-left: 130px;
+ }
+ .second{
+   margin: 0 auto;
+   margin-right: 130px;
+   margin-left: 100px;
+ }
+ .best-1{
+   color: #f00;
+   font-size: 20px;
+   font-weight: 500;
+ }
+ .best-2{
+   color: #070211;
+   font-size: 45px;
+   font-weight: 900;
+   
+ }
+ .best-3{
+   color: rgba(7, 2, 17, 0.6);
+   font-size: 18px;
+ }
+ .best-4{
+   color: #f00;
+   font-weight: bold;
+   font-size: 45px;
+ }
+ .best-5{
+   width: 140px;
+   height: 149px;
+ }
+ 
+.background{
+   border: solid 15px 
+   #ff0000;
+   border-radius: 50%;
+   padding: 15px;
+   margin-left: 40px;
+}
+.back{
+   width: 350.8px;
+   height: 370.2px;
+   
+}
+
     
 
 
